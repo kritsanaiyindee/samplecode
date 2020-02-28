@@ -1,0 +1,11 @@
+C:\Users\HT170305\Desktop\GAMES\FarmerRun\FarmerRun\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HT170305\Desktop\GAMES\FarmerRun\FarmerRun\obj\Debug\FarmerRun.Form1.resources
+C:\Users\HT170305\Desktop\GAMES\FarmerRun\FarmerRun\obj\Debug\FarmerRun.Properties.Resources.resources
+C:\Users\HT170305\Desktop\GAMES\FarmerRun\FarmerRun\obj\Debug\FarmerRun.csproj.GenerateResource.Cache
+C:\Users\HT170305\Desktop\GAMES\FarmerRun\FarmerRun\bin\Debug\FarmerRun.exe
+C:\Users\HT170305\Desktop\GAMES\FarmerRun\FarmerRun\bin\Debug\FarmerRun.pdb
+C:\Users\HT170305\Desktop\GAMES\FarmerRun\FarmerRun\obj\Debug\FarmerRun.exe
+C:\Users\HT170305\Desktop\GAMES\FarmerRun\FarmerRun\obj\Debug\FarmerRun.pdb
+C:\Users\HT170305\Desktop\GAMES\FarmerRun\FarmerRun\obj\Debug\FarmerRun.Credit.resources
+C:\Users\HT170305\Desktop\GAMES\FarmerRun\FarmerRun\obj\Debug\FarmerRun.Howto.resources
+C:\Users\HT170305\Desktop\GAMES\FarmerRun\FarmerRun\obj\Debug\FarmerRun.MainGame.resources
